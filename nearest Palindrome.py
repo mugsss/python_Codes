@@ -4,6 +4,10 @@ Created on Mon May 11 15:29:24 2020
 
 @author: Mugdha
 """
+"""
+Write a python function, nearest_palindrome() which accepts a number and returns the nearest palindrome greater than the given number
+"""
+
 def nearest_palindrome(number):
     #start writitng your code here
     while True:
