@@ -1,3 +1,6 @@
+#CODE 3
+
+
 def check_anagram(data1,data2):
     #start writing your code here
     x = len(data1)
