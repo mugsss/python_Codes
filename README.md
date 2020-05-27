@@ -1,9 +1,10 @@
 # python_Codes
 
-Write a python function, nearest_palindrome() which accepts a number and returns the nearest palindrome greater than the given number
-eg 12300	12321
+CODE 1) Write a python function, nearest_palindrome() which accepts a number and returns the nearest palindrome greater than the given number
+INPUT : 12300
+OUTPUT: 12321
 
-CODE 3)
+CODE 2)
 DO SMS encoding
 
 
