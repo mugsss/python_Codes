@@ -6,6 +6,7 @@ Created on Thu May 28 17:12:50 2020
 """
 
 #PF-Assgn-57
+#CODE 5
 
 def check_prime(number):
     flag = 0
