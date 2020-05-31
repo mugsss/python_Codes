@@ -4,7 +4,7 @@ Created on Sun May 31 11:07:34 2020
 
 @author: Mugdha
 """
-
+#CODE 6
 #PF-Assgn-59
 def check_perfect_number(number):
     #start writing your code here
