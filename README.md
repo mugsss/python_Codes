@@ -46,3 +46,11 @@ The number, 197, is called a circular prime because all rotations of the digits:
 There are thirteen such primes below 100: 2, 3, 5, 7, 11, 13, 17, 31, 37, 71, 73, 79, and 97.
 
 Write a python program to find and display the number of circular primes less than the given limit.
+
+
+### CODE 6)
+Question:
+Write a python function to check whether the given number is a perfect number or not. The function should returns true if the number is a perfect number, else it should returns false.
+
+Hint: Perfect number is a positive whole number that is equal to the sum of its proper divisors.
+The first perfect number is 6 as the sum of its proper positive divisors, 1,2 and 3 is 6. Other perfect numbers are 28, 496, 8128 ...
